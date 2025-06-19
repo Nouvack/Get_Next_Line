@@ -1,6 +1,6 @@
 # get_next_line
 
-![GNL Banner](https://repository-images.githubusercontent.com/416265706/9f9ab400-9ec9-11eb-85e8-802db2f2f536)
+<img src="get_next_line_minimalist.svg" alt="GET_NEXT_LINE banner" />
 
 ## 📘 Overview
 
