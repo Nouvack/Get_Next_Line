@@ -1,6 +1,6 @@
 # get_next_line
 
-<img src="get_next_line_minimalist.svg" alt="GET_NEXT_LINE banner" />
+<img src="banner.svg" alt="GET_NEXT_LINE banner" />
 
 ## 📘 Overview
 
