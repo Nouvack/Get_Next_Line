@@ -126,7 +126,3 @@ Special thanks to 42 School for providing hands-on projects that sharpen low-lev
 
 This project was developed as part of the 42 Common Core program.  
 Proudly coded with love and `malloc()`.
-
----
-
-![GNL Diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/C_File_IO.svg/1200px-C_File_IO.svg.png)
